@@ -1,7 +1,7 @@
 const ContactUs = () => {
     return (
         <div>
-            
+            This Is Contact Page.
         </div>
     );
 };
